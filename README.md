@@ -7,7 +7,7 @@
 - 🎯 Goal: Build impactful tech solutions
 
 ## 🛠 Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Vue, Tailwind
+- **Frontend:** React, Next.js, TypeScript, Vue, Tailwind CSS, Shadcn/ui
 - **Backend:** Laravel, Node.js
 - **Database:** MySQL, PostgreSQL
 
