@@ -1,2 +1,1 @@
-# Hi there, I'm Jelyn 👋
-<img width="1366" height="678" alt="ABOUT ME JELYN" src="https://github.com/user-attachments/assets/cd7c40e8-b49c-4e13-9e31-e66b7149c6b8" />
+<img width="1025" height="1056" alt="Jelyn Github" src="https://github.com/user-attachments/assets/5be0839a-ad7b-4b07-a6ee-634866495ea4" />
