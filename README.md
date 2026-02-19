@@ -1,6 +1,6 @@
 # Hi there, I'm Jelyn 👋
 <p align="center px-0">
- <img src="./ABOUTME.svg" width="full" />
+ <img src="./aboutme.svg" width="full" />
 </p>
 
 
